@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("This is my Firs Habit tracker App in SwiftUI!")
+            Text("Creating new Develop branch")
         }
         .padding()
     }
