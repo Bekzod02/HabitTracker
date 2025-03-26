@@ -2,7 +2,7 @@
 //  HabitTrackerApp.swift
 //  HabitTracker
 //
-//  Created by Bekzod Khaitboev on 25/03/25.
+//  Created by Bekzod Khaitboev on 26/03/25.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct HabitTrackerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HabitListView()
         }
     }
 }
